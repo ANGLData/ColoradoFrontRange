@@ -1,0 +1,35 @@
+{
+    "beam_diameter": "",
+    "cleanup_duration": 1200.0,
+    "commit": "6601ec1dedf70a22925a7fd1e71627be6d66db78",
+    "extract_device": "Ablation CO2",
+    "extract_duration": 30.0,
+    "extract_units": "watts",
+    "extract_value": 30.0,
+    "extraction_context": {},
+    "grain_polygons": [],
+    "light_value": 0.0,
+    "load_holder": "UA-30",
+    "load_name": "8",
+    "measured_response": null,
+    "pattern": "octogon_br2.0-ua-30.lp",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": "25",
+            "x": 19.604,
+            "y": 39.154,
+            "z": 12.113
+        }
+    ],
+    "post_cleanup_duration": 0.0,
+    "pre_cleanup_duration": 0.0,
+    "ramp_duration": 0.0,
+    "ramp_rate": 0.0,
+    "requested_output": null,
+    "setpoint_stream": null,
+    "snapshots": [],
+    "tray": "",
+    "videos": [],
+    "weight": 1.163
+}
